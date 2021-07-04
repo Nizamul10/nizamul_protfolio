@@ -24,3 +24,8 @@ border-radius: 5px;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.unda_big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
