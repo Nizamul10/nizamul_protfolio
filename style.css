@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.blog{
+    color: coral;
+}
+section{
+    display: flex;
+}
+.hafe{
+    width: 50%;
+}
+.batoom{
+text-decoration: none;
+background-image: linear-gradient(orange,red);
+padding: 10px 5px;
+border-radius: 5px;
+}
+.top_banar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
